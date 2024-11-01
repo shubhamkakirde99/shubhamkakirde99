@@ -9,7 +9,7 @@ With experience across startups and large-scale projects, I'm passionate about b
 </br>
 
 <p align=center>
-    <img src="https://badges.pufler.dev/visits/shubhamkakirde99/?color=black&logo=github" />
+    <img src="https://badges.pufler.dev/visits/shubhamkakirde99/shubhamkakirde99/?color=black&logo=github" />
     <img src="https://komarev.com/ghpvc/?username=shubhamkakirde99&color=brightgreen" />
     <a href="https://github.com/shubhamkakirde99">
     <img src="https://badges.pufler.dev/commits/monthly/shubhamkakirde99?color=blue" />
@@ -64,7 +64,6 @@ With experience across startups and large-scale projects, I'm passionate about b
   <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40" title="Bash"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/667px-Matlab_Logo.png" alt="matlab" width="40" height="40" title="MATLAB" />
 
-  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40" title="Flask"/>
   <img src="https://avatars1.githubusercontent.com/u/45109972?s=200&v=4" alt="streamlit" width="40" height="40" title="Streamlit"/>
   
   <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="40" height="40" title="MySQL"/>  
