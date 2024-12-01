@@ -1,12 +1,15 @@
-<p align="center">
-  <img class="center" alt="GIF" src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="480" />
-  </p>
-  <br>
-  </br>
+
+  
 👋 <b>Hey there! I'm Shubham – a full-stack developer, tech enthusiast, and problem-solver at heart.</b>  
 With experience across startups and large-scale projects, I'm passionate about building efficient, scalable, and user-friendly apps that make a difference. From crafting seamless frontends to architecting robust backends, I love diving into complex challenges and bringing innovative solutions to life. My interests span AI, systems engineering, and anything that pushes tech forward. Always open to new collaborations and exciting opportunities – let's connect and build something amazing together!
 <br>
 </br>
+<p align="center">
+<img class="center" alt="GIF" src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="480" />
+  
+  </p>
+<br>
+  </br>
 
 <p align=center>
     <img src="https://badges.pufler.dev/visits/shubhamkakirde99/shubhamkakirde99/?color=black&logo=github" />
